@@ -1,7 +1,7 @@
-name,age,city
-Tom,30,New York
-Rob,27,Washington
-John,25,London
-Faruk,21,Ankara
-Ahmet,23,Sivas
+name   age  city
+Tom    30    New York
+Rob    27    Washington
+John   25    London
+Faruk  21    Ankara
+Ahmet  23    Sivas
     
