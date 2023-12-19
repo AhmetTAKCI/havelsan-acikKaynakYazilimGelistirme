@@ -1,0 +1,3 @@
+ Ahmet TAKCI
+ 02200201055
+ Örgün
